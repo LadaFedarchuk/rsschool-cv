@@ -1,1 +1,1 @@
-# rsschool-cv
+https://LadaFedarchuk.github.io/rsschool-cv/cv

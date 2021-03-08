@@ -26,7 +26,7 @@ Graduating November 2014
  - support and administration application software
  - support internal users
  - create report using PL/SQL (oracle)
- - software design, development and tests process with use groovy |
+ - software design, development and tests process with use groovy
 ---
 ___
 | | |

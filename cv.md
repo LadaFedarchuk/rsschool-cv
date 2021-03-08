@@ -1,11 +1,11 @@
 # Contact Details
-| | |
+|  |  |
 | ------------- | ---------------- |
-|Name|**Lada Nikeyenka**|
-|Date of birth|**27/09/1988**|
-|Adress|2 Medziotoju gatve, Klaipeda, Lithuania|
-|Tel. number| +37063365080|
-|e-mail|**anorata@mail.ru**|
+| Name | **Lada Nikeyenka** |
+| Date of birth | **27/09/1988** |
+| Adress | 2 Medziotoju street, Klaipeda, Lithuania |
+| Tel. number | +37063365080 |
+| e-mail | **anorata@mail.ru** |
 
 
 # Education

@@ -1,0 +1,86 @@
+    figure {
+    background: #5f6a72; /* Цвет фона */
+    padding: 10px; /* Поля вокруг */
+    display: block; /* Блочный элемент */
+    width: 150px; /* Ширина */
+    float: left; /* Блоки выстраиваются по горизонтали */
+    margin: 0 10px 10px 0; /* Отступы */
+    text-align: center; /* Выравнивание по центру */
+   }
+
+   figcaption {
+    color: #fff; /* Цвет текста */
+   }
+   .clear {
+    clear: both;
+    overflow: hidden;
+}
+
+    #container {
+		margin-top: 0px;
+        margin-left: auto;
+        margin-right: auto;
+		background: url(../images/container_bg_light.png);
+		padding: 6px;
+		width: 50%;
+		padding-bottom: 24px;
+		padding-top: 24px;
+	}
+    .like-color  {
+		color: #999;
+	}
+    h2.title_block {
+		font-size: 38px;
+	}
+	
+	.title_block {
+		background: url(../images/h2.png) repeat-x bottom;
+		padding-bottom: 10px;
+		margin: 0;
+		margin-bottom: 30px;
+		margin-top: 15px;
+		padding-bottom: 15px;
+	}
+
+    ul {
+		list-style: square;
+		margin-left: 150px;
+	}	
+
+    ul.list li.phone {
+        background: url(../images/phone.png) no-repeat left 7px;
+        padding-left: 35px;
+        padding-bottom: 8px;
+        padding-top: 6px;
+    }	
+    
+    ul.list li.email {
+        background: url(../images/email.png) no-repeat left 7px;
+        padding-left: 35px;
+        padding-bottom: 8px;
+        padding-top: 6px;
+    }	
+    
+    ul.list li.address {
+        background: url(../images/address.png) no-repeat left 5px;
+        padding-left: 35px;
+        padding-bottom: 8px;
+        padding-top: 6px;
+    }		
+
+     ul.arrow {
+        list-style: none;
+        margin: 0;
+        margin-bottom: 15px;		
+    }
+
+    ul.arrow li {
+        background: url(../images/arrow.png) no-repeat left 12px;
+        padding-left: 15px;
+    }
+
+    ul.arrow li {
+        background: url(../images/bullet.png) no-repeat left 10px;
+        border-bottom: 1px #aaa dotted;
+        padding: 4px 0 5px 20px;
+    }

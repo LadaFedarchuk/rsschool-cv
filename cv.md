@@ -31,7 +31,7 @@ Graduating November 2014
 ___
 | | |
 | ------------- | ---------------- |
-|Organization|**MTBank**| 
+| Organization | **MTBank** | 
 | Position|**QA Engineer**|
 |Location|**Minsk, Belarus**|
 |Date|**January 2013 – May 2014**|
